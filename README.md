@@ -13,6 +13,18 @@
   <a href="https://recompstore.com/game/PPSA99764"><img alt="Get it on RecompStore" src="https://recompstore.com/assets/press/badge-dark.svg" height="56"></a>
 </p>
 
+> **This fork: real Wii Remotes through a Mayflash DolphinBar.**
+> Play Wii games in Porpoise with original Wii Remotes (Remote Plus, Nunchuk,
+> Classic Controller, MotionPlus, IR, rumble, speaker) through a Mayflash
+> DolphinBar W010 in mode 4 in a USB port of the PS5. The fork also adds
+> Settings → Controllers & Accessories (a live controller test with a
+> diagnosis), menu control with the Wii Remote (upright with a Nunchuk or
+> sideways, with Wii button prompts), HOME held for the in-game menu, connect
+> notices, and fixes for a crash and for reconnecting when a real Remote is
+> switched off in a game. Tested on a PS5. Details:
+> [docs/DOLPHINBAR.md](docs/DOLPHINBAR.md). Offered upstream as a pull
+> request to [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5).
+
 <p align="center">
   <b>Porpoise</b> is a GameCube and Wii emulator for jailbroken PS5, built on
   <a href="https://dolphin-emu.org">Dolphin</a>, with its own launcher for the TV and the DualSense.
