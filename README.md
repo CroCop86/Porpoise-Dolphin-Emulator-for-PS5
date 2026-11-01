@@ -13,7 +13,7 @@
   <a href="https://recompstore.com/game/PPSA99764"><img alt="Get it on RecompStore" src="https://recompstore.com/assets/press/badge-dark.svg" height="56"></a>
 </p>
 
-> **This fork: real Wii Remotes through a Mayflash DolphinBar.**
+> **This fork: real Wii Remotes through a Mayflash DolphinBar, and the Switch 2's GameCube controller.**
 > Play Wii games in Porpoise with original Wii Remotes (Remote Plus, Nunchuk,
 > Classic Controller, MotionPlus, IR, rumble, speaker) through a Mayflash
 > DolphinBar W010 in mode 4 in a USB port of the PS5. The fork also adds
@@ -22,8 +22,17 @@
 > sideways, with Wii button prompts), HOME held for the in-game menu, connect
 > notices, and fixes for a crash and for reconnecting when a real Remote is
 > switched off in a game. Tested on a PS5. Details:
-> [docs/DOLPHINBAR.md](docs/DOLPHINBAR.md). Offered upstream as a pull
-> request to [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5).
+> [docs/DOLPHINBAR.md](docs/DOLPHINBAR.md).
+>
+> **And the Switch 2's GameCube controller** (Nintendo Switch Online,
+> 057E:2073) as player 1's GameCube controller, by its USB cable or without
+> it through a USB Bluetooth adapter with a Realtek RTL8761B/C (tested:
+> TP-Link UB600): analog triggers, rumble, Porpoise's menus with GameCube
+> button prompts, pairing with its SYNC button. Tested on a PS5. Details:
+> [docs/NSO-GAMECUBE.md](docs/NSO-GAMECUBE.md).
+>
+> Both are offered upstream as pull requests to
+> [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5).
 
 <p align="center">
   <b>Porpoise</b> is a GameCube and Wii emulator for jailbroken PS5, built on
